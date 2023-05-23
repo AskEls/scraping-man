@@ -1,0 +1,8 @@
+[credentials]
+host = 'satao.db.elephantsql.com'
+dbname = ""
+dbuser = ""
+dbpass = ""
+
+[page]
+total = 5 
